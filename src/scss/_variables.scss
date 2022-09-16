@@ -1,0 +1,39 @@
+// цвета
+// палитра
+$color-white: #fff;
+$color-smokyWhite: #F5F5F5;
+$color-yellow: #FACA4E;
+$color-grey: #2F3641;
+$color-lightGray: #6E737A;
+$color-blue: #4D6AA2;
+$color-lightBlue: #008FFF;
+$color-purple: #917DA1;
+$color-green: #7DA17D;
+$color-orange: #E39D61;
+
+// по палитре с фигмы для использования
+// 
+
+// Анимации
+$transitionAll: all 0.2s ease;
+
+// шрифты
+// подключенные
+$avenir-regular: 'avenirnextcyr-regular';
+$avenir-bold: 'avenirnextcyr-bold';
+
+// текст
+$ff-text: $avenir-regular;
+// заголовки
+$ff-title: $avenir-bold;
+// кнопки 
+$ff-btn: $avenir-bold;
+
+// Breakpoints
+$screenXS:              575px;         
+$screenS:               770px;         
+$screenXM:              990px;         
+$screenM:              1140px;          
+$screenL:              1280px;         
+$screenXL:             1440px;
+$screenXXL:            1600px;
